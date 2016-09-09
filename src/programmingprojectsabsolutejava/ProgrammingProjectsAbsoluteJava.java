@@ -7,16 +7,19 @@ package programmingprojectsabsolutejava;
 
 /**
  * The testing area
+ *
  * @author it-el
  */
-public class ProgrammingProjectsAbsoluteJava {
+public class ProgrammingProjectsAbsoluteJava
+{
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // TODO code application logic here
-        Problem2.Problem2_14.main();
+        Problem3.Problem3_16.main();
     }
-    
+
 }

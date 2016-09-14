@@ -38,6 +38,5 @@ public class Problem5_4
     {
         Scanner input = new Scanner(System.in);
         
-        Competition comp = new Competition();
     }
 }

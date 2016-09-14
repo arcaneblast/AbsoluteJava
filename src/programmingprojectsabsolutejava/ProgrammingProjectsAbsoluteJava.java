@@ -19,7 +19,7 @@ public class ProgrammingProjectsAbsoluteJava
     public static void main(String[] args) throws Exception
     {
         // TODO code application logic here
-        Problem5.Problem5_3.main();
+        Problem5.Solution.main();
     }
 
 }

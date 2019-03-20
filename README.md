@@ -9,9 +9,5 @@ It has the solution of each problem in each chapter. Please note some problems w
 It has the solution of the programming projects of each chapter.
 I will be using the naming convention of: Problem(CHAPTER)_(NUMBER) and it is saved in packages by each chapter Problem_CHAPTER.
 
+Cheers
 
-Thank you for your time and consideration,
-Sincerely,
-
-#Elias Al Homsi
-#it-elias@hotmail.com
